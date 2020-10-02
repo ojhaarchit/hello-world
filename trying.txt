@@ -1,2 +1,3 @@
-Helo this is from pc 
+Hello this is from pc 
 It is an awesome repository
+Good to work here.
